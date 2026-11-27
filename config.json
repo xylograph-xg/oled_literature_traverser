@@ -1,0 +1,9 @@
+{
+  "max_depth": 3,
+  "max_papers": 100,
+  "max_related_per_paper": 5,
+  "download_open_access_pdf": true,
+  "try_public_supplement_links": true,
+  "request_timeout_seconds": 30,
+  "sleep_between_requests_seconds": 0.8
+}
